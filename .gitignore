@@ -3,7 +3,6 @@
 *.exe
 *.out
 
-# VS Code settings
 .vscode/
 
 # OS-specific files
