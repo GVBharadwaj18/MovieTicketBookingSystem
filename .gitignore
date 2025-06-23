@@ -1,0 +1,14 @@
+# Ignore compiled files and executables
+*.o
+*.exe
+*.out
+
+# VS Code settings
+.vscode/
+
+# OS-specific files
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# Output files
+bookings.csv
